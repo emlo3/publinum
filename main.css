@@ -1,0 +1,87 @@
+code {
+    white-space: pre;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('http://fonts.googleapis.com/css?family=Gentium Book Basic:300,400,600,700,800,900,300italic,400italic,600italic,700italic,800italic,900italic&subset=latin');
+@import url('http://fonts.googleapis.com/css?family=Noto Sans:300,400,600,700,800,900,300italic,400italic,600italic,700italic,800italic,900italic&subset=latin');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #566b78;
+    font-family: "Gentium Book Basic", Georgia, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 50em;
+    padding: 3em 1em;
+}
+
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h2 {
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+h1,
+h2,
+strong {
+    color: #333;
+}
+
+.block {
+    background: #f5f7f9;
+    border-bottom: 1px solid #d8dee9;
+    border-left: 2px solid #69c;
+    color: #566b78;
+}
+
+.block {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+}
+
+.block {
+    padding: 1em;
+}
+
+a {
+    color: #2B2D9F;
+}
+
+table,
+th,
+td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+footer {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+    text-align: center;
+}
