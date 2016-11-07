@@ -31,18 +31,17 @@ Les thèmes et mot-clé les plus prisés par ce nouveau service sont plus orient
 Cet outil est encore en test, et on ne peut pas encore l'utiliser, on peut juste s'inscrire sur liste d'attente. 
 
 ### Autres services
-**LinkedIn Pulse** : Pour publier du contenu à destination des professionnels, B2B. Notifications par drapeau à tous les membres de votre réseau. 
-**Medium Publishers** : Pour les contenus tech, web, geek, business, il y a Medium for Publishers
-Apple News
-**Snapchat Discover** : Les plus lus sont Melty, Konbini, Le Monde, L'Equipe (50% du CA pub prélevé par Snapchat). Modèle économique qui pourrait bientôt changer.
-**Facebook Live**
-**Netflix** : Le contenu vidéo est de plus en plus un contenu distribué. 
-**Twitter** vient de créer une app pour l'Apple TV pour diffuser les matchs de la NFL. 
-**Pandora** : Arrive bientôt en France, et permettra une diffusion de la radio plus simple.
-**Apple Car Play et Android Auto** : Distribution de contenu audio dans les voitures, qui va mettre en danger a radio.
-**Les bots** : Ils facilitent la communication
-
-
+**LinkedIn Pulse** : Pour publier du contenu à destination des professionnels, B2B. Notifications par drapeau à tous les membres de votre réseau.  
+**Medium Publishers** : Pour les contenus tech, web, geek, business, il y a Medium for Publishers  
+**Apple News**  
+**Snapchat Discover** : Les plus lus sont Melty, Konbini, Le Monde, L'Equipe (50% du CA pub prélevé par Snapchat). Modèle économique qui pourrait bientôt changer.  
+**Facebook Live**  
+**Netflix** : Le contenu vidéo est de plus en plus un contenu distribué.  
+**Twitter** vient de créer une app pour l'Apple TV pour diffuser les matchs de la NFL.  
+**Pandora** : Arrive bientôt en France, et permettra une diffusion de la radio plus simple.  
+**Apple Car Play et Android Auto** : Distribution de contenu audio dans les voitures, qui va mettre en danger a radio.  
+**Les bots** : Ils facilitent la communication  
+  
 *Le site web a-t-il encore un sens à l'heure de la distribution massive ?*
 
 ![MinuteBuzz](https://www.minutebuzz.com/), par exemple, a bien compris cela, et publie principalement des vidéos, poussées par Facebook.
