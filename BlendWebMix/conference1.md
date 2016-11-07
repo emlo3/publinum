@@ -32,15 +32,15 @@ Cet outil est encore en test, et on ne peut pas encore l'utiliser, on peut juste
 
 ### Autres services
 **LinkedIn Pulse** : Pour publier du contenu à destination des professionnels, B2B. Notifications par drapeau à tous les membres de votre réseau.  
-**Medium Publishers** : Pour les contenus tech, web, geek, business, il y a Medium for Publishers  
-**Apple News**  
-**Snapchat Discover** : Les plus lus sont Melty, Konbini, Le Monde, L'Equipe (50% du CA pub prélevé par Snapchat). Modèle économique qui pourrait bientôt changer.  
-**Facebook Live**  
-**Netflix** : Le contenu vidéo est de plus en plus un contenu distribué.  
+**Medium Publishers** : Pour les contenus tech, web, geek, business, il y a Medium for Publishers. Quelques exemples d'entreprises qui utilisent Medium : Slack, Starbucks Coffee, Intel, BMW...  
+**Apple News** : Pas encore disponible en France, mais les premiers retours sont positifs, c'est un bon produit, mais la monétisation est difficile et il y a une problématique d'accès aux statistiques.  
+**Snapchat Discover** : Les plus lus sont Melty, Konbini, Le Monde, L'Equipe (50% du CA pub prélevé par Snapchat). Le modèle économique qui pourrait bientôt changer.  
+**Facebook Live** et **Netflix** : Développement des nouveaux usages vidéos, le contenu vidéo est de plus en plus distribué.  
 **Twitter** vient de créer une app pour l'Apple TV pour diffuser les matchs de la NFL.  
-**Pandora** : Arrive bientôt en France, et permettra une diffusion de la radio plus simple.  
-**Apple Car Play et Android Auto** : Distribution de contenu audio dans les voitures, qui va mettre en danger a radio.  
-**Les bots** : Ils facilitent la communication  
+**Apple TV** et **Android TV** : Les usages du replay et des boîtiers OTT sont en hausse.
+**Pandora** : Le podcast se développe fortement, et Pandora arrive bientôt en France, permettant une diffusion de la radio plus simple.  
+**Apple Car Play** et **Android Auto** : Distribution de contenu audio dans les voitures, qui va mettre en danger a radio.  
+**Les bots** : Ils facilitent la communication et sont en plein essor.  
   
 *Le site web a-t-il encore un sens à l'heure de la distribution massive ?*
 
