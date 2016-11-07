@@ -37,7 +37,7 @@ Cet outil est encore en test, et on ne peut pas encore l'utiliser, on peut juste
 **Snapchat Discover** : Les plus lus sont Melty, Konbini, Le Monde, L'Equipe (50% du CA pub prélevé par Snapchat). Le modèle économique qui pourrait bientôt changer.  
 **Facebook Live** et **Netflix** : Développement des nouveaux usages vidéos, le contenu vidéo est de plus en plus distribué.  
 **Twitter** vient de créer une app pour l'Apple TV pour diffuser les matchs de la NFL.  
-**Apple TV** et **Android TV** : Les usages du replay et des boîtiers OTT sont en hausse.
+**Apple TV** et **Android TV** : Les usages du replay et des boîtiers OTT sont en hausse.  
 **Pandora** : Le podcast se développe fortement, et Pandora arrive bientôt en France, permettant une diffusion de la radio plus simple.  
 **Apple Car Play** et **Android Auto** : Distribution de contenu audio dans les voitures, qui va mettre en danger a radio.  
 **Les bots** : Ils facilitent la communication et sont en plein essor.  
