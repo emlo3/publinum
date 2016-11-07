@@ -1,5 +1,5 @@
 # Et si les sites web étaient sur le point de disparaître ?
-*Par Virginie Clèves* (![@largow](https://twitter.com/largow))
+*Par Virginie Clèves* ([@largow](https://twitter.com/largow))
 <p>&nbsp; </p>
 Les utilisateurs de smarphones et tablettes ont beaucoup d'applications sur leurs smartphones, tablettes et autres 'devices', mais ils utilisent peu d'entre elles de manière quotidienne (seulement 26% sont utilisées daily). Les top application dans les stores sont les GAFA (géants du WEB : Google, Apple, Facebook, Amazon), les réseaux sociaux et messagerie. 
 
@@ -44,4 +44,4 @@ Cet outil est encore en test, et on ne peut pas encore l'utiliser, on peut juste
   
 *Le site web a-t-il encore un sens à l'heure de la distribution massive ?*
 
-![MinuteBuzz](https://www.minutebuzz.com/), par exemple, a bien compris cela, et publie principalement des vidéos, poussées par Facebook.
+[MinuteBuzz](https://www.minutebuzz.com/), par exemple, a bien compris cela, et publie principalement des vidéos, poussées par Facebook.
