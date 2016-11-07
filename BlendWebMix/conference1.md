@@ -7,7 +7,7 @@ Parallèlement à cela, on a la montée de l'adblocking : 32% ad blockers, 17% m
 
 Pour distribuer son contenu, il faut donc bien choisir ses réseaux pour toucher la plus grande audience : Google, Facebook, Twitter, Pinterest...
 
-### Google AMP : Accerlerated Mobile Pages
+### Google AMP : Accelerated Mobile Pages
 Google AMP est un projet open source qui propose une version light du HTML pour réduire, voir supprimer, les temps de chargement, qui sont mauvais pour l'UX. C'est donc une sorte de 'viewer' que propose Google pour visualiser plus rapidement les pages. On obtient quasiment le même résultat que sur le web classique. 
 
 Le système AMP est une savante équation gagnante : 
