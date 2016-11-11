@@ -1,0 +1,11 @@
+#Les performances de rendu CSS
+*Thomas Zilliox @iamtzi et [tzi.fr](http://tzo/fr)*
+####A quoi ça sert les performances CSS ?
+Avoir des interactions fluides avec un scroll sans latence, les transitions et animations fluides et que la manipulation de contenu le soit aussi. Le but c'est le même qu'au cinéma, si c'est cheap l'utilisateur va se concentrer sur la forme au lieu du fond. Ainsi AirBNB a réduit les ombres portées de son design pour que le site arrête de laguer sur les "vieilles" machines.
+Ne jamais faire de transition avec autre chose que opacity transform (translation,, rotation, redimensionnement) et filter (niveau de gris, luminosité)
+Un navigateur a deux filtres d’exécution d'une part le principal (qui parle au CPU) qui calcule les règles CSS, la mise en page (layout) et le calcul de chaque pixel et d'autre part le fil de composition (qui parle à la carte graphique) qui affiche les pixels, c'est le maillon final. C'est important de savoir ça pour comprendre comment gagner en fluidité.
+L'objectif technique c'est de faire nos opérations en 16ms afin de garder un *framerate* de 60 fps (plus ça sert à rien, moins c'est horrible). 
+Lorsqu'on anime un élément on délenche un re-layout et recommence tout le processus (layout -> paint -> chargement -> composition). C'est dommage car le fil de composition peut faire tout seul l'opération d'agrandissement (par exemple) rapidement via {transform}. Voir [csstrigers](http://csstriggers.com) pour repérer quel(s) processus sont en jeu lors d'une modification. 
+Pour repérer les reflows, on peut utiliser la console de Firefox. Le Pain peut être investigué via la console de Chrome (option *rendering* ou "timeline").
+On peut créer un nouveau layer en application {perspective(1px)] pour accélérer la composition mais c'est une solution relative à la manière dont le navigateur le traduit et pour combien de temps.  
+Si on a une image de fond fixe au défilement, autant créer deux éléments distincts avec d'une part le background et d'autre part le reste du contenu. Cela permet d'éviter le repaint et la recomposition.
